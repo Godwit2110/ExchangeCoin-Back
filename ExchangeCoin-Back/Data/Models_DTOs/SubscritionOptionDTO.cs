@@ -2,5 +2,6 @@
 {
     public class SubscritionOptionDTO
     {
+        public string subscriptionName { get; set; }
     }
 }

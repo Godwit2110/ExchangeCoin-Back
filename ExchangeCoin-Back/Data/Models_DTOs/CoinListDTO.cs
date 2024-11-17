@@ -2,5 +2,6 @@
 {
     public class CoinListDTO
     {
+        public List<string> coins { get; set; }
     }
 }
