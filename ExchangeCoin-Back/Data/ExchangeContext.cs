@@ -13,7 +13,7 @@ namespace ExchangeCoin_Back.Data
         public DbSet<Exchange> Exchange { get; set; }
 
 
-        public ExchangeContext(DbContextOptions<ExchangeContext> options) : base(options) 
+        public ExchangeContext(DbContextOptions<ExchangeContext> options) : base(options)
         {
 
         }
@@ -133,4 +133,5 @@ namespace ExchangeCoin_Back.Data
 
             base.OnModelCreating(modelBuilder);
         }
+    }
 }

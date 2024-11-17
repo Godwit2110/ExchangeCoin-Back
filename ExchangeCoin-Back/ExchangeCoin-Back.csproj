@@ -5,6 +5,7 @@
     <Nullable>enable</Nullable>
     <ImplicitUsings>enable</ImplicitUsings>
     <RootNamespace>ExchangeCoin_Back</RootNamespace>
+    <UserSecretsId>21305045-1f16-4cc6-beda-00688c48fdbd</UserSecretsId>
   </PropertyGroup>
 
   <ItemGroup>
